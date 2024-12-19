@@ -88,7 +88,9 @@ Ensure you have the following installed:
 - Upload images or media using the integrated Cloudinary service.
 
 ---
+
 ---
+
 ---
 
 ### How to Fill the `.env` File
@@ -174,21 +176,5 @@ To set up the environment variables in your project, create a `.env` file in the
    ```env
    NODE_ENV=development
    ```
-
----
-
-### Example of a Fully Filled `.env` File:
-
-```env
-PORT=5000
-MONGO_URI=mongodb+srv://myUser:myPassword@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority
-JWT_SECRET=yourSuperSecretKey
-CLOUDINARY_CLOUD_NAME=myCloudName
-CLOUDINARY_API_KEY=yourCloudinaryApiKey
-CLOUDINARY_API_SECRET=yourCloudinaryApiSecret
-NODE_ENV=production
-```
-
-Make sure to replace the placeholder values with your actual credentials. After filling out the `.env` file, your server will be ready to connect to MongoDB and Cloudinary, and JWT authentication will work with the secret key you provided.
 
 ---
