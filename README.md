@@ -65,7 +65,7 @@ Ensure you have the following installed:
    NODE_ENV=production
    ```
 
-# More details at the end of the file
+   **More details at the end of the file**
 
 3. Build the Project:
    Run the following command to create an optimized production build of the frontend. This step is necessary before starting the server:
