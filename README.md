@@ -85,15 +85,14 @@ Ensure you have the following installed:
 
 - Register a new user or log in with an existing account.
 - Use the chat feature for real-time communication.
-- Upload images or media using the integrated Cloudinary service.
 
 ---
-
+---
+---
+---
 ---
 
----
-
-### How to Fill the `.env` File
+# -How to Fill the `.env` File
 
 To set up the environment variables in your project, create a `.env` file in the backend directory and fill it with the following details. Below is an explanation of each variable:
 
