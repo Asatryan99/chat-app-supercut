@@ -88,6 +88,8 @@ Ensure you have the following installed:
 - Upload images or media using the integrated Cloudinary service.
 
 ---
+---
+---
 
 ### How to Fill the `.env` File
 
